@@ -2,8 +2,7 @@
 This repository contains mods to the 2004 PC game, Evil Genius.
 
 ## bonus-cd
-The bonus CD can be downloaded from the following link:
-`https://drive.google.com/drive/folders/1dNqFgTaOcEDlA4WHRCPPTovGAdbgBVvh?usp=sharing`
+The bonus CD can be downloaded from [here](https://drive.google.com/drive/folders/1dNqFgTaOcEDlA4WHRCPPTovGAdbgBVvh?usp=sharing).
 
 The bonus CD includes the following:
 
